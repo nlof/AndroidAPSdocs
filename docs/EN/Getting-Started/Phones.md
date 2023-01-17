@@ -1,3 +1,9 @@
+# List of tested Phones/watches compatible with Accu Check, Dana and Medtronic pumps
+https://docs.google.com/spreadsheets/d/1gZAsN6f0gv6tkgy9EBsYl0BQNhna0RDqA9QGycAqCQc
+
+# List of tested Phones compatible with Omnipod Eros (partial list)
+https://docs.google.com/spreadsheets/d/1eNtXAWwrdVtDvsvXaR_72wgT9ICjZPNEBq8DbitCv_4
+
 # List of tested Phones compatible with Omnipod Dash Insulin Pump Pods
 
 Currently, we have a very hard-working behind-the-scenes Maintainer, who is in charge of ensuring the integrity of the Hardware List of all Android Phones/Smartwatches Capable of Looping with the Omnipod Dash; the newest pump driver addition to our ever-expanding network of Bluetooth enabled insulin pumps for use within the AndroidAPS/OpenAPS ecosystem! 
